@@ -1,0 +1,7 @@
+MySQL Local
+
+root 
+password : Tri,MMC,roo,
+
+sr
+password : SRS,MMC,roo,
